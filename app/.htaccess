@@ -1,0 +1,2 @@
+# kalau misalkan ada user yang membuka app dan folder lainnya, selama di folder itu tidak ada file index maka blok aksesnya
+Options -Indexes
